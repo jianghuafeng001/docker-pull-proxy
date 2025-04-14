@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+centos/mysql-57-centos7 registry.cn-hangzhou.aliyuncs.com/jianghf32647/centos/mysql-57-centos7
